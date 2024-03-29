@@ -1,8 +1,7 @@
-# Hello World 👋
+# Hello World I'm Selim! 🤘🏻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Selim+Figenkaplan.;Nice+to+meet+you.)](https://git.io/typing-svg)
+🚀 About Me
 
-Hi! My name is Selim Figenkaplan.<br/>
 I am a Backend Engineer.
 
  - 🏢 I'm currently working at **Colendi**.
