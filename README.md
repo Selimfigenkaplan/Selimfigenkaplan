@@ -7,8 +7,6 @@ I am a Backend Engineer.
  - 🏢 I'm currently working at **Colendi**.
  - 🔭 Bachelor's degree in **Software Engineering**.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selimfigenkaplan&theme=github-dark-blue&card_width=494)](https://git.io/streak-stats)
-
 ## Expertise
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
