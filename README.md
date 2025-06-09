@@ -4,7 +4,7 @@
 
 I am a Backend Engineer.
 
- - 🏢 I'm currently working at **Colendi**.
+ - 🏢 I'm currently working at **Garanti BBVA Teknoloji**.
  - 🔭 Bachelor's degree in **Software Engineering**.
 
 ## Expertise
